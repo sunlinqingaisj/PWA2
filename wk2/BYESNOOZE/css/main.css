@@ -430,11 +430,11 @@ footer{
 	background: #4180AB;
 }
 
-#copyright p{
+.copyright p{
 	width: 450px;
 	padding-top: 8px;
 	margin: 0 auto;
-	color: #7a6a53;
+	color: #d5ded9;
 }
 
 
